@@ -1,3 +1,5 @@
+Welcome to my new profile! 👋🏼 Unfortunately, my old account, <strong>@felipesllopes</strong>, was compromised and restricted. I'm excited to share my projects and contribute to the community from here!
+
 ### Website:
 
 [![Website](https://img.shields.io/badge/felipelopesdev.com.br-0078D4?logo=internet-explorer&logoColor=white)](https://felipelopesdev.com.br)
