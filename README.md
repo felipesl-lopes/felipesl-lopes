@@ -1,4 +1,6 @@
-Welcome to my new profile! 👋🏼 Unfortunately, my old account, <strong>@felipesllopes</strong>, was compromised and restricted. I'm excited to share my projects and contribute to the community from here!
+Bem-vindo ao meu novo perfil!
+
+Infelizmente, minha conta antiga, @felipesllopes , foi comprometida e restrita. 
 
 ### Website:
 
