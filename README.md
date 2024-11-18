@@ -1,29 +1,29 @@
-Bem-vindo ao meu novo perfil!
+Welcome to my new profile!
 
-Infelizmente, minha conta antiga, @felipesllopes , foi comprometida e restrita. 
+Unfortunately, my old account, @felipesllopes, was compromised and restricted.
 
 ### Website:
 
 [![Website](https://img.shields.io/badge/felipelopesdev.com.br-0078D4?logo=internet-explorer&logoColor=white)](https://felipelopesdev.com.br)
 
 
-### Contatos <a name="contact"></a>: 
+### Contacts <a name="contact"></a>: 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5521970733224)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Felipesllopes)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:contato@felipelopesdev.com.br)
 
-### Redes sociais:
+### Social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/felipe-lopes-b76075200/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/felipesl.dev)
 
-### Portfólios:
+### Portfolios:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/felipesllopes)
 [![Website](https://img.shields.io/badge/Websites-0078D4?logo=internet-explorer&logoColor=white)](https://felipelopesdev.com.br/#portfolio)
 
-### Tecnologias:
+### Technologies:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
