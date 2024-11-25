@@ -1,6 +1,6 @@
-Welcome to my new profile!
+Welcome!
 
-Unfortunately, my old account, @felipesllopes, was compromised and restricted.
+This is my new profile, as the old [felipesllopes](https://github.com/felipesllopes) had been suspended.
 
 ### Website:
 
