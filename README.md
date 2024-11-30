@@ -1,6 +1,6 @@
 Welcome!
 
-This is my new profile, as the old [felipesllopes](https://github.com/felipesllopes) had been suspended.
+This is my new profile.
 
 ### Website:
 
